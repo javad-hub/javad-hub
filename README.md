@@ -10,7 +10,7 @@
   - **csw50 certificate of web development with python and javascript**
   - **master's degree of programming**
 
-
+<h2>stats</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javad-hub&theme=chartreuse-dark&show_icons=true)
 
 
