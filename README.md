@@ -6,7 +6,7 @@
    My e-mail: mohammadjavadvafajoo@gmail.com. 
     My website address is down below feel free to visit it :smile:
     
- ##:page_facing_up:<h3>Education</h3>
+ :page_facing_up:<h3>Education</h3>
   - **csw50 certificate of web development with python and javascript**
   - **master's degree of programming**
 
