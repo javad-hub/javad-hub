@@ -10,6 +10,8 @@
   - **csw50 certificate of web development with python and javascript**
   - **master's degree of programming**
 
+
+💻
 <h2>stats</h2>
 
 
