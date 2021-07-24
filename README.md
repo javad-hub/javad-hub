@@ -9,7 +9,10 @@
  :page_facing_up:<h3>Education</h3>
   - **csw50 certificate of web development with python and javascript**
   - **master's degree of programming**
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 
 <!---
