@@ -7,8 +7,8 @@
     My website address is down below feel free to visit it :smile:
     
  <h2>:page_facing_up:</h3><h3>Education</h3>
- -  **csw50 certificate of web development with python and javascript**
- -  **master's degree of programming**
+  -  **csw50 certificate of web development with python and javascript**
+  -  **master's degree of programming**
 
 
 <!---
