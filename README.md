@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning most of these tools...
 - 💞️ I’m looking to collaborate on open-source web projects if available
 - 📫 How to reach me:
-   My e-mail: mohammadjavadvafajoo@gmail.com
+   My e-mail: mohammadjavadvafajoo@gmail.com. 
     My website address is down below feel free to visit it :smile:
     
- :page_facing_up:<h3>Education</h3>
+ <h2>:page_facing_up:</h3><h3>Education</h3>
  -  **csw50 certificate of web development with python and javascript**
  -  **master's degree of programming**
 
