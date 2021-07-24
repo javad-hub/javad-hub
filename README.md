@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on open-source web projects if available
 - 📫 How to reach me:
    My e-mail: mohammadjavadvafajoo@gmail.com
-    My website address is down below feel free to visit it:smile:
+    My website address is down below feel free to visit it :smile:
+    
+ :page_facing_up:<h3>Education</h3>
+ -  **csw50 certificate of web development with python and javascript**
+ -  **master's degree of programming**
+
 
 <!---
 javad-hub/javad-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
