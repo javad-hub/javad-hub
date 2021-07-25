@@ -18,6 +18,7 @@
  ## :page_facing_up: Education
   - **csw50 certificate of web development with python and javascript**
   - **master's degree of programming**
+ <br/><br/>
 
 
 ## 🧰 Languages and Tools:
@@ -36,6 +37,7 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<br/><br/>
 
 
 ## 💻 Stats
