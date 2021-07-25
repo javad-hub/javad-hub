@@ -15,7 +15,7 @@
  <a href="mohammadjavadvafajoo@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
     
- :page_facing_up:<h3>Education</h3>
+ ## :page_facing_up: Education
   - **csw50 certificate of web development with python and javascript**
   - **master's degree of programming**
 
