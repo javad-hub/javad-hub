@@ -6,11 +6,11 @@
 - 📫 How to reach me:
    My e-mail: mohammadjavadvafajoo@gmail.com. 
     My website address is down below feel free to visit it :smile:
+  <br/> <br/> <br/>
     
     
     
-    
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## ✉️ You can click on these too in order to reach me:
+ ## ✉️ You can click on these too in order to reach me:
 
 
 <p align="center">
