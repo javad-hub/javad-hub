@@ -10,7 +10,7 @@
     
     
     
- ## ✉️ You can click on these too in order to reach me:
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## ✉️ You can click on these too in order to reach me:
 
 
 <p align="center">
