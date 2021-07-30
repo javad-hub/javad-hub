@@ -1,11 +1,11 @@
 - <h1><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"></a> Hi, I’m Mohammad javad</h1>
+- <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" style="max-width:100%;">
 - 👀 I’m interested in web development using python and javascript using django framework.
 - 🌱 I’m currently learning most of these tools...
 - 💞️ I’m looking to collaborate on open-source web projects if available.
 - 📫 How to reach me:
    My e-mail: mohammadjavadvafajoo@gmail.com. 
     My website address is down below feel free to visit it :smile:
-    <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" style="max-width:100%;">
   <br/> <br/> <br/> <br/> <br/>
     
     
