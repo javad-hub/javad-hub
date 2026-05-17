@@ -5,7 +5,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" height="270" alt="Coding gif">
 
-- 🎓 I’m currently studying **M.Sc. Artificial Intelligence** at the **University of Passau**.
 - 💻 I’m interested in **Full-Stack Web Development**, **AI Agents**, and **LLM-based applications**.
 - 🧠 I’m currently working with **Python**, **Django**, **Streamlit**, **LangChain**, **Claude API**, and **Pydantic**.
 - 🌐 I have experience with **WordPress**, **SEO**, technical website optimization, and **E-Commerce websites**.
@@ -25,77 +24,8 @@
   <a href="https://linkedin.com/in/mohammadjavad-vafajoo-493a12271" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" style="vertical-align:top; margin:4px">
   </a>
-
-  <a href="https://technolojet.ir/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="45" style="vertical-align:top; margin:4px">
-  </a>
+  
 </p>
-
-## :page_facing_up: Education
-
-- **M.Sc. Artificial Intelligence** — University of Passau, Germany  
-  Focus: AI Agents, Deep Learning, Machine Learning
-
-- **Bachelor in Software Engineering** — Islamic Azad University, Iran  
-  Focus: Software Development, Software Maintenance, DevOps, Testing and Debugging
-
-<br/><br/>
-
-## 💼 Experience
-
-### Full-Stack Developer — TechnoloJet
-
-- Worked on web and software projects for e-commerce and business websites.
-- Customized WordPress templates and plugins based on customer requirements.
-- Developed and improved product detail pages for e-commerce websites.
-- Optimized backend functionality and website response times.
-- Built Windows-based 2D games using Python.
-
-### SEO Specialist — TechnoloJet
-
-- Performed technical SEO audits.
-- Improved crawlability, indexing, and website performance.
-- Worked with Google Analytics and SEO tools.
-- Supported keyword research, content optimization, linkbuilding, and branding.
-- Analyzed UI/UX to improve user experience.
-
-<br/><br/>
-
-## 🚀 Projects
-
-### AI Research Assistant
-
-**Technologies:** Python, LangChain, Claude API, Streamlit, Pydantic, PyPDF, Tool Calling
-
-- Built an AI research tool with web search, Wikipedia search, PDF analysis, and image search.
-- Implemented structured Pydantic outputs for summaries, sources, and tool usage.
-- Created a Streamlit interface with PDF upload, output formats, and Markdown report export.
-
-### NewsCrawler
-
-**Technologies:** Python, Django, HTML, Web Crawling
-
-- Developed a Django-based web crawler for extracting news headlines and links from multiple websites.
-- Implemented a search feature for topic-based news queries.
-- Built the project using Python, Django, and HTML.
-
-### Technodemy
-
-**Technologies:** WordPress, HTML, CSS, BigBlueButton, CMS, Plugin Configuration
-
-- Developed a CMS-based e-learning platform for courses, learning materials, and live classes.
-- Integrated BigBlueButton, course registration, and user roles using WordPress plugins.
-- Improved page layouts, frontend components, and course navigation.
-
-### Telegram Chatbot
-
-**Technologies:** Python, Telegram Bot API
-
-- Built a rule-based Telegram bot with command processing and automatic responses.
-- Implemented message handling, date/time requests, and message forwarding.
-- Organized the project into configuration, main logic, and response logic.
-
-<br/><br/>
 
 ## 🧰 Languages and Tools:
 
@@ -149,15 +79,6 @@
   <img src="https://img.shields.io/badge/Technical_SEO-222222?style=for-the-badge" alt="Technical SEO">
 </p>
 
-<br/>
-
-## 🌍 Languages
-
-- **Persian:** Native
-- **English:** C1
-- **German:** B1
-
-<br/>
 
 ## 💻 Stats
 
