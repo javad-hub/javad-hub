@@ -3,8 +3,11 @@
   Hi, I’m Mohammad Javad Vafajoo
 </h1>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" height="270" alt="Coding gif">
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
+- 🎓 I’m currently studying **M.Sc. Artificial Intelligence** at the **University of Passau**.
 - 💻 I’m interested in **Full-Stack Web Development**, **AI Agents**, and **LLM-based applications**.
 - 🧠 I’m currently working with **Python**, **Django**, **Streamlit**, **LangChain**, **Claude API**, and **Pydantic**.
 - 🌐 I have experience with **WordPress**, **SEO**, technical website optimization, and **E-Commerce websites**.
@@ -12,8 +15,12 @@
 - 📫 How to reach me: **mohammadjavadvafajoo@gmail.com**
 - 📍 Based in **Passau, Germany**
 
-<br/><br/><br/><br/>
-
+  </td>
+  <td width="45%" align="center">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding gif">
+  </td>
+  </tr>
+</table>
 ## ✉️ You can click on these too in order to reach me:
 
 <p align="center">
