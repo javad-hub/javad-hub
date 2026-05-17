@@ -92,17 +92,16 @@
 
 ## 💻 Stats
 
-
 <p align="center">
-  <a href="https://github.com/javad-hub">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javad-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammad Javad's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/javad-hub">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javad-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=javad-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammad Javad's GitHub Stats">
 </p>
 
-<!---
-javad-hub/javad-hub is a ✨ special ✨ repository because its README.md file appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=javad-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javad-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
