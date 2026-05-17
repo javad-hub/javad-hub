@@ -90,14 +90,12 @@
 
 
 
+
 ## 💻 Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=javad-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammad Javad's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=javad-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=javad-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammad Javad's GitHub Stats">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=javad-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ## 🔥 GitHub Streak
