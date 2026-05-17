@@ -80,14 +80,19 @@
 </p>
 
 
+
 ## 💻 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javad-hub&theme=chartreuse-dark&show_icons=true" alt="Mohammad Javad's GitHub stats">
+  <a href="https://github.com/javad-hub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javad-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammad Javad's GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javad-hub&theme=tokyonight&layout=compact" alt="Top Languages">
+  <a href="https://github.com/javad-hub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javad-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 <!---
